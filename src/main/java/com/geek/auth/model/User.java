@@ -1,4 +1,4 @@
-package com.hellokoding.auth.model;
+package com.geek.auth.model;
 
 import jakarta.persistence.*;
 

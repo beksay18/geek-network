@@ -1,7 +1,7 @@
-package com.hellokoding.auth.validator;
+package com.geek.auth.validator;
 
-import com.hellokoding.auth.model.User;
-import com.hellokoding.auth.service.UserService;
+import com.geek.auth.service.UserService;
+import com.geek.auth.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.validation.Errors;

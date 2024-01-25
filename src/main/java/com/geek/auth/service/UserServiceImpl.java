@@ -1,10 +1,9 @@
-package com.hellokoding.auth.service;
+package com.geek.auth.service;
 
-import com.hellokoding.auth.model.User;
-import com.hellokoding.auth.repository.RoleRepository;
-import com.hellokoding.auth.repository.UserRepository;
+import com.geek.auth.model.User;
+import com.geek.auth.repository.RoleRepository;
+import com.geek.auth.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
 import java.util.HashSet;

@@ -1,8 +1,8 @@
-package com.hellokoding.auth.service;
+package com.geek.auth.service;
 
-import com.hellokoding.auth.model.Role;
-import com.hellokoding.auth.model.User;
-import com.hellokoding.auth.repository.UserRepository;
+import com.geek.auth.model.Role;
+import com.geek.auth.model.User;
+import com.geek.auth.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
